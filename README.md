@@ -29,6 +29,6 @@ Sou desenvolvedor de RPA e Aplicativo.
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=FelexGuilherme&show_icons=true&theme=codeSTACKr"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelexGuilherme&show_icons=true&theme=codeSTACKr" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFelex&show_icons=true&theme=codeSTACKr"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFelex&show_icons=true&theme=codeSTACKr" />
 </div>
